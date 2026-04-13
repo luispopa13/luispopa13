@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Andreas 👋</h1>
+<h1 align="center">Hi, I'm Luis 👋</h1>
 
 <h3 align="center">Full-stack Developer · Romania</h3>
 
@@ -36,24 +36,42 @@
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Projects
 
 <table align="center">
   <tr>
-    <td align="center" width="500">
+    <td align="center" width="460">
       <a href="https://github.com/luispopa13/truthscore">
         <img src="https://img.shields.io/badge/TruthScore-AI_Fact_Checker-4f46e5?style=for-the-badge&logo=searchengin&logoColor=white"/>
       </a>
       <br/><br/>
       <p>
         AI-powered fact-checking system using Gemini 2.5 Flash.<br/>
-        Verifies claims against 40+ authoritative APIs across 26 domains.<br/>
-        Includes browser extension, Stripe billing, Google OAuth, and PDF reports.
+        Verifies claims against <strong>40+ authoritative APIs</strong> across 26 domains.<br/>
+        Includes browser extension, Stripe billing, Google OAuth and PDF reports.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
         <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white"/>
+      </p>
+    </td>
+    <td align="center" width="460">
+      <a href="https://github.com/luispopa13/animeleveling">
+        <img src="https://img.shields.io/badge/AnimeLeveling-Anime_Platform-e11d48?style=for-the-badge&logo=dribbble&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <p>
+        Full-stack anime streaming platform with AniList integration.<br/>
+        Features search, favorites, episode tracking, watch progress,<br/>
+        SEO sitemap generation and a custom content management system.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000?style=flat&logo=express&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
       </p>
     </td>
@@ -82,7 +100,7 @@
 ### 📫 Connect
 
 <p align="center">
-  <a href="[https://linkedin.com/in/andreas-luis-popa](https://www.linkedin.com/in/luis-popa-7b619a26a/)">
+  <a href="https://linkedin.com/in/andreas-luis-popa">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:andreasluispopa@gmail.com">
