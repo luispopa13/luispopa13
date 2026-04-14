@@ -104,10 +104,6 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <em>Stats coming soon.</em>
-</p>
-
 <br/>
 
 ---
