@@ -76,6 +76,26 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="460" colspan="2">
+      <a href="https://github.com/luispopa13/art-portfolio">
+        <img src="https://img.shields.io/badge/Art_Portfolio-E--Commerce_Platform-a855f7?style=for-the-badge&logo=palette&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <p>
+        Full-stack art portfolio and e-commerce platform for an independent artist.<br/>
+        Features dynamic product catalog with sold-out indicators, custom commission system,<br/>
+        Stripe checkout integration, lightbox gallery, social sharing, and dark mode support.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000?style=flat&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
 </table>
 
 <br/>
