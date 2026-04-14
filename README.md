@@ -110,7 +110,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luispopa13&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=luispopa13&theme=tokyonight&hide_border=true"/>
 </p>
 
 <br/>
@@ -120,7 +120,7 @@
 ### 📫 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/andreas-luis-popa">
+  <a href="https://www.linkedin.com/in/luis-popa-7b619a26a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:andreasluispopa@gmail.com">
